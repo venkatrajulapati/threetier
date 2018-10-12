@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "myapp.synclass5.tk",
+        "Name": "myapp.synvenkat84.tk",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
